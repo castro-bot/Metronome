@@ -68,7 +68,7 @@ The project follows a standard Android application structure:
 └── build.gradle.kts    # Top-level build script
 ```
 
-## ✍️ Author
+## ✍️ Authors
 
 This app was created with ❤️ by:
 
